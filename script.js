@@ -1,5 +1,5 @@
 // Definindo os nomes dos colaboradores e dos postos de trabalho
-const colaboradores = ["Vinycius", "Jadson", "Gilson", "Fernando", "Fabrício", "Guilherme", "Tony"];
+const colaboradores = ["Vinycius", "Jadson", "Gilson", "Fernando", "Fabrício", "Anderson", "Tony"];
 const postosTrabalho = ["Biometria", "Baliza", "Baliza", "4&5", "4&5", "Moto", "Garagem"];
 
 
